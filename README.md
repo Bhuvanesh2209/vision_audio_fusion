@@ -2,8 +2,8 @@
 
 A dual-modality object detection system that intelligently switches between **YOLOv8 (vision)** and **OpenL3 (audio)** models to identify objects in video clips based on lighting conditions.
 
-> ⚡️ In good lighting → Vision-based detection using YOLOv8  
-> 🌙 In poor lighting → Audio-based classification using OpenL3 embeddings
+>  In good lighting → Vision-based detection using YOLOv8  
+>  In poor lighting → Audio-based classification using OpenL3 embeddings
 
 ---
 
