@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+ultralytics
+transformers
+librosa
+numpy
+opencv-python
+soundfile
+scipy
+tensorflow
+tensorflow-hub
